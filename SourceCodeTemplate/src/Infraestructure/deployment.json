@@ -217,10 +217,10 @@
     },
     "parameters": {
       "frontendAppName": {
-        "value": "viktoriasecrets-frontend-ca"
+        "value": "wooftreatsbowl-frontend-ca"
       },
       "backendAppName": {
-        "value": "viktoriasecrets-backend-ca"
+        "value": "wooftreatsbowl-backend-ca"
       },
       "location": {
         "value": "westeurope"
@@ -232,16 +232,16 @@
         "value": "Auto Generated Frontend + Backend Container Apps"
       },
       "frontendImage": {
-        "value": "**.azurecr.io/blazorappfe:latest"
+        "value": "cravajhubcoredev.azurecr.io/blazorappfe:latest"
       },
       "backendImage": {
-        "value": "**.azurecr.io/webapibe:latest"
+        "value": "cravajhubcoredev.azurecr.io/webapibe:latest"
       },
       "containerAppEnvironmentName": {
-        "value": "cae-viktoriasecrets-dev"
+        "value": "cae-wooftreatsbowl-dev"
       },
       "logAnalyticsWorkspaceName": {
-        "value": "logs-cae-viktoriasecrets-dev"
+        "value": "logs-cae-wooftreatsbowl-dev"
       },
       "registryServer": {
         "value": "cravajhubcoredev.azurecr.io"
